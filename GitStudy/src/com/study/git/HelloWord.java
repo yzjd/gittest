@@ -2,10 +2,6 @@ package com.study.git;
 /**
  * 
  */
-
-/*
- * 
- */
 public class HelloWord {
 
 	/**
