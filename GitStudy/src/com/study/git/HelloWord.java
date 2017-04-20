@@ -14,6 +14,7 @@ public class HelloWord {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//clone 分支 1
+		// 测试分支冲突
 		System.out.println("hello this is git!");
 	}
 
