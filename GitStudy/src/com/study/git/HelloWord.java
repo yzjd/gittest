@@ -12,7 +12,7 @@ public class HelloWord {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+		//clone ∑÷÷ß 0
 		System.out.println("hello this is git!");
 	}
 
