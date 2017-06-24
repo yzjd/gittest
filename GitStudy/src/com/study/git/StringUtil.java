@@ -37,5 +37,14 @@ public class StringUtil {
 			return true;
 		return false;
 	}
+	
+	/**
+	 * 数字转十六进制
+	 * @param n
+	 * @return
+	 */
+	public static String intToHex(int n){
+		return Integer.toHexString(n);
+	}
 
 }
