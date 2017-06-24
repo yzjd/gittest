@@ -6,6 +6,7 @@ public class StringUtil {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is string util.");
+		System.out.println("master print 01");
 	}
 
 }
