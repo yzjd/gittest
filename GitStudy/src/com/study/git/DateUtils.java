@@ -17,11 +17,22 @@ public class DateUtils {
 		System.out.println("gittest 02 master print 02");
 	}
 	
+	/**
+	 * 获得字符串形式的日期
+	 * @param date
+	 * @param formate
+	 * @return
+	 */
 	public static String getFormateDate(Date date,String formate){		
 		DateFormat f = new SimpleDateFormat(formate);
 		return f.format(date);		
 	}
 	
+	/**
+	 * 获得当前日期的字符格式
+	 * @param formate
+	 * @return
+	 */
 	public static String getCurrentDate(String formate){
 		DateFormat f = new SimpleDateFormat(formate);
 		return f.format(new Date());
