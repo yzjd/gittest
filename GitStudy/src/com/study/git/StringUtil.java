@@ -7,6 +7,7 @@ public class StringUtil {
 
 		System.out.println("this is string util.");
 		System.out.println("master print 01");
+	    System.out.println("0623 print 01.");
 	}
 
 }
