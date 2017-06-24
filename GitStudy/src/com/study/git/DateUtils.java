@@ -1,5 +1,9 @@
 package com.study.git;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class DateUtils {
 
 	public static void main(String[] args) {
@@ -11,6 +15,16 @@ public class DateUtils {
 		System.out.println("master print 02");
 		System.out.println("master print 03");
 		System.out.println("gittest 02 master print 02");
+	}
+	
+	public static String getFormateDate(Date date,String formate){		
+		DateFormat f = new SimpleDateFormat(formate);
+		return f.format(date);		
+	}
+	
+	public static String getCurrentDate(String formate){
+		DateFormat f = new SimpleDateFormat(formate);
+		return f.format(new Date());
 	}
 
 }
