@@ -45,6 +45,14 @@ public class StringUtil {
 	 */
 	public static String intToHex(int n){
 		return Integer.toHexString(n);
+	}  
+	/*
+	 * È¥µô¿Õ¸ñ
+	 * @param s
+	 * @return
+	 */
+	public static String trimStr(String s){
+		if(isBlank(s)) return "";
+		return s.trim();
 	}
-
 }
