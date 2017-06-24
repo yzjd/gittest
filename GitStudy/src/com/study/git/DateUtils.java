@@ -30,6 +30,7 @@ public class DateUtils {
 	
 	/**
 	 * 获得当前日期的字符格式
+	 * 获得当前日期字符格式
 	 * @param formate
 	 * @return
 	 */
