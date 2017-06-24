@@ -27,5 +27,15 @@ public class StringUtil {
 		}
 		return true;
 	}
+	/**
+	 * ÅÐ¶ÏÊÇ·ñ¿Õ×Ö·û
+	 * @param s
+	 * @return
+	 */
+	public static boolean isBlank(String s){
+		if(s==null || "".equals(s))
+			return true;
+		return false;
+	}
 
 }
