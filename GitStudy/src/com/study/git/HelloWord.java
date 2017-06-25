@@ -12,6 +12,7 @@ public class HelloWord {
 		//clone 分支 0
 		//测试分支 1
 		System.out.println("hello this is git!");
+		System.out.println("hello gg");
 	}
 
 }
