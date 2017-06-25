@@ -12,7 +12,8 @@ public class HelloWord {
 		//clone 分支 0
 		//测试分支 1
 		System.out.println("hello this is git!");
-	        Systen.out.println("hello gg this master modify 01");
+		System.out.println("hello gg");
+	    System.out.println("hello gg this master modify 01");
 	}
 
 }
