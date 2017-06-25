@@ -13,6 +13,7 @@ public class HelloWord {
 		//≤‚ ‘∑÷÷ß 1
 		System.out.println("hello this is git!");
 		System.out.println("hello gg");
+		System.out.println("hello gg 01");
 	}
 
 }
