@@ -18,6 +18,9 @@ public class HelloWord {
 		System.out.println("0623 print 01 ");
 		System.out.println("0623 print 02 ");
 		System.out.println("0623 print 02 ");
+		System.out.println("0623 print 03 ");
+		System.out.println("0620 print 04 ");
+		
 	}
 
 }
