@@ -12,6 +12,7 @@ public class StringUtil {
 	    System.out.println("0623 print 01.");
 	}
 	
+	
 	/**
 	 * ÅĞ¶ÏÊÇ·ñÊı×Ö
 	 * @param s
